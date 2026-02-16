@@ -1,0 +1,46 @@
+1:"$Sreact.fragment"
+2:I[13474,["/fkcom/_next/static/chunks/826d65db553a4cc8.js"],"Navigation"]
+3:I[22016,["/fkcom/_next/static/chunks/826d65db553a4cc8.js"],""]
+4:I[5500,["/fkcom/_next/static/chunks/826d65db553a4cc8.js"],"Image"]
+6:I[76841,["/fkcom/_next/static/chunks/826d65db553a4cc8.js"],"Footer"]
+7:I[97367,["/fkcom/_next/static/chunks/ff1a16fafef87110.js","/fkcom/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+5:T514,
+# Willkommen in meinem Blog
+
+Dies ist mein erster Blogbeitrag mit MDX! Ich freue mich darauf, meine Gedanken zu Webentwicklung, Design und digitaler Strategie mit Ihnen zu teilen.
+
+## Warum MDX?
+
+MDX ermöglicht es mir, Inhalte mit Markdown zu schreiben und gleichzeitig React-Komponenten einzubetten. Das gibt mir die Flexibilität, reiche, interaktive Inhalte zu erstellen, während ich die Einfachheit von Markdown beibehalte.
+
+## Was Sie erwarten können
+
+In diesem Blog finden Sie:
+
+- **Webentwicklungs-Tutorials**: Schritt-für-Schritt-Anleitungen für moderne Webtechnologien
+- **Design-Einblicke**: Gedanken zu Benutzererfahrung und Interface-Design
+- **Digitale Strategie**: Ratschläge zum Wachstum von Online-Geschäften
+- **Persönliche Projekte**: Updates zu meinen neuesten Arbeiten und Experimenten
+
+## Erste Schritte
+
+Um mit MDX zu beginnen, benötigen Sie:
+
+1. Next.js mit MDX-Unterstützung
+2. Eine Content-Verzeichnisstruktur
+3. Korrekte Routing für Ihre Blogbeiträge
+
+```jsx
+// Beispiel für das Einbetten von Code in MDX
+function HalloWelt() {
+  return <h1>Hallo, Welt!</h1>;
+}
+```
+
+Bleiben Sie dran für mehr Inhalte. Ich freue mich darauf, meine Reise mit Ihnen zu teilen!
+
+---
+
+*Danke fürs Lesen! Zögern Sie nicht, sich zu melden, wenn Sie Fragen oder Vorschläge haben.*0:{"buildId":"gxMFr-P9cBHBdLbbkaA-9","rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","children":"{\"@context\":\"https://schema.org\",\"@type\":\"BlogPosting\",\"headline\":\"Hallo Welt!\",\"description\":\"Willkommen in meinem neuen MDX-betriebenen Blog. Dies ist der erste Beitrag auf meiner Reise, Einblicke in Webentwicklung, Design und digitale Strategie zu teilen.\",\"url\":\"https://felixkrusch.com/de/blog/hallo-welt\",\"datePublished\":\"2026-02-14T14:16:35Z\",\"dateModified\":\"2026-02-14T17:15:49Z\",\"inLanguage\":\"de\",\"author\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"url\":\"https://felixkrusch.com\"},\"publisher\":{\"@type\":\"Person\",\"name\":\"Felix Krusch\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://felixkrusch.com/felixkrusch-logo-2026.svg\"}},\"image\":{\"@type\":\"ImageObject\",\"url\":\"/images/hallo-welt.jpg\"}}"}],["$","main",null,{"className":"min-h-screen","children":[["$","$L2",null,{"lang":"de"}],["$","article",null,{"className":"container mx-auto px-4 py-24","children":["$","div",null,{"className":"max-w-2xl mx-auto","children":[["$","$L3",null,{"href":"/de/blog","className":"text-primary hover:underline mb-12 inline-block","children":["← ","Zurück zum Blog"]}],["$","div",null,{"className":"relative w-full aspect-[2/1] mb-8 rounded-lg overflow-hidden","children":["$","$L4",null,{"src":"/images/hallo-welt.jpg","alt":"Ein Computerbildschirm mit Code","fill":true,"className":"object-cover","priority":true}]}],["$","h1",null,{"className":"text-4xl md:text-5xl font-bold mb-4 text-balance","children":"Hallo Welt!"}],["$","div",null,{"className":"prose prose-lg max-w-none mb-8","dangerouslySetInnerHTML":{"__html":"$5"}}],["$","div",null,{"className":"text-sm text-muted-foreground","children":["$","time",null,{"children":"14. Februar 2026"}]}]]}]}]]}],["$","$L6",null,{"lang":"de"}]],[["$","script","script-0",{"src":"/fkcom/_next/static/chunks/826d65db553a4cc8.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"loading":null,"isPartial":false}
+9:null
