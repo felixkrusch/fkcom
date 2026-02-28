@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/blog</link>
     <atom:link href="https://felixkrusch.com/rss.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Feb 2026 19:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 14:11:25 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
+    <item>
+      <title><![CDATA[WordPress FSE diminishing returns]]></title>
+      <description><![CDATA[WordPress FSE is a lesson in diminishing returns. The complexity-to-flexibility ratio doesn't make sense when modern stacks just work.]]></description>
+      <link>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</link>
+      <guid>https://felixkrusch.com/blog/wordpress-fse-diminishing-returns</guid>
+      <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Why 85% of Cleaning Companies & Janitor Websites Scare Off Customers in 2026]]></title>
       <description><![CDATA[The hard truth: Slow loading times, unclear prices, missing forms, fake images, no reviews, mobile issues. A simple one-pager fixes 80% and brings more inquiries. No agency needed.]]></description>

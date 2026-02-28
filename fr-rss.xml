@@ -6,9 +6,16 @@
     <link>https://felixkrusch.com/fr/blog</link>
     <atom:link href="https://felixkrusch.com/fr-rss.xml" rel="self" type="application/rss+xml"/>
     <language>fr-fr</language>
-    <lastBuildDate>Thu, 26 Feb 2026 19:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 14:11:25 GMT</lastBuildDate>
     <generator>Next.js</generator>
     
+    <item>
+      <title><![CDATA[WordPress FSE : rendements décroissants]]></title>
+      <description><![CDATA[WordPress FSE est une leçon de rendements décroissants. Le rapport complexité/flexibilité n'a pas de sens quand les stacks modernes fonctionnent tout simplement.]]></description>
+      <link>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants</link>
+      <guid>https://felixkrusch.com/fr/blog/wordpress-fse-rendements-decroissants</guid>
+      <pubDate>Sat, 28 Feb 2026 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title><![CDATA[Pourquoi 85 % des sites web d'entreprises de nettoyage et de conciergerie font fuir les clients en 2026]]></title>
       <description><![CDATA[La dure vérité : Temps de chargement lents, prix peu clairs, formulaires absents, images fake, pas d'avis, problèmes mobiles. Une simple one-pager corrige 80 % et apporte plus de demandes. Pas d'agence nécessaire.]]></description>
